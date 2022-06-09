@@ -1,0 +1,7 @@
+C:\Users\tec21\OneDrive\Documentos\GitHub\Examen\Examen\obj\Debug\Examen.csproj.AssemblyReference.cache
+C:\Users\tec21\OneDrive\Documentos\GitHub\Examen\Examen\obj\Debug\Examen.csproj.CoreCompileInputs.cache
+C:\Users\tec21\OneDrive\Documentos\GitHub\Examen\Examen\bin\Debug\Examen.exe.config
+C:\Users\tec21\OneDrive\Documentos\GitHub\Examen\Examen\bin\Debug\Examen.exe
+C:\Users\tec21\OneDrive\Documentos\GitHub\Examen\Examen\bin\Debug\Examen.pdb
+C:\Users\tec21\OneDrive\Documentos\GitHub\Examen\Examen\obj\Debug\Examen.exe
+C:\Users\tec21\OneDrive\Documentos\GitHub\Examen\Examen\obj\Debug\Examen.pdb
